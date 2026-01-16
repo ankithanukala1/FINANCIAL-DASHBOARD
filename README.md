@@ -32,8 +32,11 @@ Quarter-wise revenue trend analysis
 
 Product-wise revenue with store ranking
 
-#SCREEN SHOT
-
 Sales representative performance table
 
 Interactive slicers: Year, Quarter, Store Rank
+
+SCREEN SHOT
+
+https://github.com/ankithanukala1/FINANCIAL-DASHBOARD/blob/main/FINACIAL%20DASH%20BOARD.png
+
